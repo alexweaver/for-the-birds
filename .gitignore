@@ -1,0 +1,9 @@
+.vs/
+*.exe
+*.csproj
+*.sln
+ProjectSettings/
+Temp/
+Build*
+Library/
+*.meta
